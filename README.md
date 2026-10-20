@@ -1,2 +1,6 @@
-# ai-skills-runner
-AI Skills Runner — load and execute composable AI skills with tool-calling agent (live demo)
+# AI Skills Runner
+
+Composable AI skills (instructions + tools) with a live demo UI.
+
+- Live: (after deploy)
+- API skills: research, ops, math, nigeria
